@@ -1,0 +1,40 @@
+# Crawl outputs and local source dumps
+*.csv
+*.xlsx
+chunks.txt
+data/
+raw/
+processed/
+output/
+outputs/
+exports/
+archive/
+local_archive/
+tmp/
+logs/
+.codex/logs/
+.codex/tmp/
+CLAUDE.md
+
+# Progress, browser state, and local sessions
+*_progress.json
+daangn_progress.json
+cookies*
+session*
+sessions/
+*.sqlite
+*.db
+*.har
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.env.*
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

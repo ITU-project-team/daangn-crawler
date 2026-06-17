@@ -1,0 +1,4838 @@
+[
+  {
+    "id": "396",
+    "name": "Gangnam-gu admin-dong 001",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "397",
+    "name": "Gangnam-gu admin-dong 002",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "402",
+    "name": "Gangnam-gu admin-dong 003",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "398",
+    "name": "Gangnam-gu admin-dong 004",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6030",
+    "name": "Gangnam-gu admin-dong 005",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "383",
+    "name": "Gangnam-gu admin-dong 006",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "384",
+    "name": "Gangnam-gu admin-dong 007",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6031",
+    "name": "Gangnam-gu admin-dong 008",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "389",
+    "name": "Gangnam-gu admin-dong 009",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "390",
+    "name": "Gangnam-gu admin-dong 010",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "391",
+    "name": "Gangnam-gu admin-dong 011",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6032",
+    "name": "Gangnam-gu admin-dong 012",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "394",
+    "name": "Gangnam-gu admin-dong 013",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "395",
+    "name": "Gangnam-gu admin-dong 014",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6033",
+    "name": "Gangnam-gu admin-dong 015",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "387",
+    "name": "Gangnam-gu admin-dong 016",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "388",
+    "name": "Gangnam-gu admin-dong 017",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6034",
+    "name": "Gangnam-gu admin-dong 018",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "399",
+    "name": "Gangnam-gu admin-dong 019",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "403",
+    "name": "Gangnam-gu admin-dong 020",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "382",
+    "name": "Gangnam-gu admin-dong 021",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "385",
+    "name": "Gangnam-gu admin-dong 022",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "392",
+    "name": "Gangnam-gu admin-dong 023",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "393",
+    "name": "Gangnam-gu admin-dong 024",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6035",
+    "name": "Gangnam-gu admin-dong 025",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6036",
+    "name": "Gangnam-gu admin-dong 026",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "401",
+    "name": "Gangnam-gu admin-dong 027",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6037",
+    "name": "Gangnam-gu admin-dong 028",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "400",
+    "name": "Gangnam-gu admin-dong 029",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6038",
+    "name": "Gangnam-gu admin-dong 030",
+    "gu": "Gangnam-gu",
+    "type": "legal"
+  },
+  {
+    "id": "386",
+    "name": "Gangnam-gu admin-dong 031",
+    "gu": "Gangnam-gu",
+    "type": "admin"
+  },
+  {
+    "id": "433",
+    "name": "Gangdong-gu admin-dong 001",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6039",
+    "name": "Gangdong-gu admin-dong 002",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "437",
+    "name": "Gangdong-gu admin-dong 003",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "438",
+    "name": "Gangdong-gu admin-dong 004",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "448",
+    "name": "Gangdong-gu admin-dong 005",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6040",
+    "name": "Gangdong-gu admin-dong 006",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "449",
+    "name": "Gangdong-gu admin-dong 007",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "450",
+    "name": "Gangdong-gu admin-dong 008",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6041",
+    "name": "Gangdong-gu admin-dong 009",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "435",
+    "name": "Gangdong-gu admin-dong 010",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "436",
+    "name": "Gangdong-gu admin-dong 011",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "434",
+    "name": "Gangdong-gu admin-dong 012",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6042",
+    "name": "Gangdong-gu admin-dong 013",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "445",
+    "name": "Gangdong-gu admin-dong 014",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "446",
+    "name": "Gangdong-gu admin-dong 015",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "447",
+    "name": "Gangdong-gu admin-dong 016",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6043",
+    "name": "Gangdong-gu admin-dong 017",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "439",
+    "name": "Gangdong-gu admin-dong 018",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "440",
+    "name": "Gangdong-gu admin-dong 019",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "441",
+    "name": "Gangdong-gu admin-dong 020",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6044",
+    "name": "Gangdong-gu admin-dong 021",
+    "gu": "Gangdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "442",
+    "name": "Gangdong-gu admin-dong 022",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "443",
+    "name": "Gangdong-gu admin-dong 023",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "444",
+    "name": "Gangdong-gu admin-dong 024",
+    "gu": "Gangdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "142",
+    "name": "Gangbuk-gu admin-dong 001",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "146",
+    "name": "Gangbuk-gu admin-dong 002",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "147",
+    "name": "Gangbuk-gu admin-dong 003",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "148",
+    "name": "Gangbuk-gu admin-dong 004",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6045",
+    "name": "Gangbuk-gu admin-dong 005",
+    "gu": "Gangbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "145",
+    "name": "Gangbuk-gu admin-dong 006",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "141",
+    "name": "Gangbuk-gu admin-dong 007",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "143",
+    "name": "Gangbuk-gu admin-dong 008",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "144",
+    "name": "Gangbuk-gu admin-dong 009",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "149",
+    "name": "Gangbuk-gu admin-dong 010",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "150",
+    "name": "Gangbuk-gu admin-dong 011",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "151",
+    "name": "Gangbuk-gu admin-dong 012",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6046",
+    "name": "Gangbuk-gu admin-dong 013",
+    "gu": "Gangbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "152",
+    "name": "Gangbuk-gu admin-dong 014",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "153",
+    "name": "Gangbuk-gu admin-dong 015",
+    "gu": "Gangbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6047",
+    "name": "Gangseo-gu admin-dong 001",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "269",
+    "name": "Gangseo-gu admin-dong 002",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "270",
+    "name": "Gangseo-gu admin-dong 003",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "271",
+    "name": "Gangseo-gu admin-dong 004",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6048",
+    "name": "Gangseo-gu admin-dong 005",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "274",
+    "name": "Gangseo-gu admin-dong 006",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6049",
+    "name": "Gangseo-gu admin-dong 007",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6050",
+    "name": "Gangseo-gu admin-dong 008",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6051",
+    "name": "Gangseo-gu admin-dong 009",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "259",
+    "name": "Gangseo-gu admin-dong 010",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "260",
+    "name": "Gangseo-gu admin-dong 011",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "261",
+    "name": "Gangseo-gu admin-dong 012",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6052",
+    "name": "Gangseo-gu admin-dong 013",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "272",
+    "name": "Gangseo-gu admin-dong 014",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6053",
+    "name": "Gangseo-gu admin-dong 015",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "275",
+    "name": "Gangseo-gu admin-dong 016",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "276",
+    "name": "Gangseo-gu admin-dong 017",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "277",
+    "name": "Gangseo-gu admin-dong 018",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "258",
+    "name": "Gangseo-gu admin-dong 019",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6054",
+    "name": "Gangseo-gu admin-dong 020",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6055",
+    "name": "Gangseo-gu admin-dong 021",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6056",
+    "name": "Gangseo-gu admin-dong 022",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "273",
+    "name": "Gangseo-gu admin-dong 023",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6057",
+    "name": "Gangseo-gu admin-dong 024",
+    "gu": "Gangseo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "266",
+    "name": "Gangseo-gu admin-dong 025",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "262",
+    "name": "Gangseo-gu admin-dong 026",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "263",
+    "name": "Gangseo-gu admin-dong 027",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "264",
+    "name": "Gangseo-gu admin-dong 028",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "265",
+    "name": "Gangseo-gu admin-dong 029",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "267",
+    "name": "Gangseo-gu admin-dong 030",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "268",
+    "name": "Gangseo-gu admin-dong 031",
+    "gu": "Gangseo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "345",
+    "name": "Gwanak-gu admin-dong 001",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "361",
+    "name": "Gwanak-gu admin-dong 002",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "356",
+    "name": "Gwanak-gu admin-dong 003",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "350",
+    "name": "Gwanak-gu admin-dong 004",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "358",
+    "name": "Gwanak-gu admin-dong 005",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "360",
+    "name": "Gwanak-gu admin-dong 006",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "341",
+    "name": "Gwanak-gu admin-dong 007",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6058",
+    "name": "Gwanak-gu admin-dong 008",
+    "gu": "Gwanak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "359",
+    "name": "Gwanak-gu admin-dong 009",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "353",
+    "name": "Gwanak-gu admin-dong 010",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "351",
+    "name": "Gwanak-gu admin-dong 011",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "343",
+    "name": "Gwanak-gu admin-dong 012",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "355",
+    "name": "Gwanak-gu admin-dong 013",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "354",
+    "name": "Gwanak-gu admin-dong 014",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "352",
+    "name": "Gwanak-gu admin-dong 015",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "347",
+    "name": "Gwanak-gu admin-dong 016",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "349",
+    "name": "Gwanak-gu admin-dong 017",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "357",
+    "name": "Gwanak-gu admin-dong 018",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "348",
+    "name": "Gwanak-gu admin-dong 019",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "346",
+    "name": "Gwanak-gu admin-dong 020",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "342",
+    "name": "Gwanak-gu admin-dong 021",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "344",
+    "name": "Gwanak-gu admin-dong 022",
+    "gu": "Gwanak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "79",
+    "name": "Gwangjin-gu admin-dong 001",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6059",
+    "name": "Gwangjin-gu admin-dong 002",
+    "gu": "Gwangjin-gu",
+    "type": "legal"
+  },
+  {
+    "id": "84",
+    "name": "Gwangjin-gu admin-dong 003",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "85",
+    "name": "Gwangjin-gu admin-dong 004",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "86",
+    "name": "Gwangjin-gu admin-dong 005",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "73",
+    "name": "Gwangjin-gu admin-dong 006",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "78",
+    "name": "Gwangjin-gu admin-dong 007",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6060",
+    "name": "Gwangjin-gu admin-dong 008",
+    "gu": "Gwangjin-gu",
+    "type": "legal"
+  },
+  {
+    "id": "80",
+    "name": "Gwangjin-gu admin-dong 009",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "81",
+    "name": "Gwangjin-gu admin-dong 010",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "82",
+    "name": "Gwangjin-gu admin-dong 011",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "83",
+    "name": "Gwangjin-gu admin-dong 012",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6061",
+    "name": "Gwangjin-gu admin-dong 013",
+    "gu": "Gwangjin-gu",
+    "type": "legal"
+  },
+  {
+    "id": "74",
+    "name": "Gwangjin-gu admin-dong 014",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "75",
+    "name": "Gwangjin-gu admin-dong 015",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "76",
+    "name": "Gwangjin-gu admin-dong 016",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "77",
+    "name": "Gwangjin-gu admin-dong 017",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "72",
+    "name": "Gwangjin-gu admin-dong 018",
+    "gu": "Gwangjin-gu",
+    "type": "admin"
+  },
+  {
+    "id": "285",
+    "name": "Guro-gu admin-dong 001",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6062",
+    "name": "Guro-gu admin-dong 002",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "288",
+    "name": "Guro-gu admin-dong 003",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "289",
+    "name": "Guro-gu admin-dong 004",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "290",
+    "name": "Guro-gu admin-dong 005",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6063",
+    "name": "Guro-gu admin-dong 006",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "286",
+    "name": "Guro-gu admin-dong 007",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "287",
+    "name": "Guro-gu admin-dong 008",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6064",
+    "name": "Guro-gu admin-dong 009",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "280",
+    "name": "Guro-gu admin-dong 010",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "281",
+    "name": "Guro-gu admin-dong 011",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "282",
+    "name": "Guro-gu admin-dong 012",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "283",
+    "name": "Guro-gu admin-dong 013",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "284",
+    "name": "Guro-gu admin-dong 014",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6065",
+    "name": "Guro-gu admin-dong 015",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "293",
+    "name": "Guro-gu admin-dong 016",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "279",
+    "name": "Guro-gu admin-dong 017",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6066",
+    "name": "Guro-gu admin-dong 018",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "291",
+    "name": "Guro-gu admin-dong 019",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "292",
+    "name": "Guro-gu admin-dong 020",
+    "gu": "Guro-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6067",
+    "name": "Guro-gu admin-dong 021",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6068",
+    "name": "Guro-gu admin-dong 022",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6069",
+    "name": "Guro-gu admin-dong 023",
+    "gu": "Guro-gu",
+    "type": "legal"
+  },
+  {
+    "id": "295",
+    "name": "Geumcheon-gu admin-dong 001",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6070",
+    "name": "Geumcheon-gu admin-dong 002",
+    "gu": "Geumcheon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "296",
+    "name": "Geumcheon-gu admin-dong 003",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "297",
+    "name": "Geumcheon-gu admin-dong 004",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "298",
+    "name": "Geumcheon-gu admin-dong 005",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "299",
+    "name": "Geumcheon-gu admin-dong 006",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6071",
+    "name": "Geumcheon-gu admin-dong 007",
+    "gu": "Geumcheon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "300",
+    "name": "Geumcheon-gu admin-dong 008",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "301",
+    "name": "Geumcheon-gu admin-dong 009",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "302",
+    "name": "Geumcheon-gu admin-dong 010",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "303",
+    "name": "Geumcheon-gu admin-dong 011",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "304",
+    "name": "Geumcheon-gu admin-dong 012",
+    "gu": "Geumcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "173",
+    "name": "Nowon-gu admin-dong 001",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "174",
+    "name": "Nowon-gu admin-dong 002",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6072",
+    "name": "Nowon-gu admin-dong 003",
+    "gu": "Nowon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "188",
+    "name": "Nowon-gu admin-dong 004",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "181",
+    "name": "Nowon-gu admin-dong 005",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "182",
+    "name": "Nowon-gu admin-dong 006",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "183",
+    "name": "Nowon-gu admin-dong 007",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "184",
+    "name": "Nowon-gu admin-dong 008",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "185",
+    "name": "Nowon-gu admin-dong 009",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "186",
+    "name": "Nowon-gu admin-dong 010",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "187",
+    "name": "Nowon-gu admin-dong 011",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6073",
+    "name": "Nowon-gu admin-dong 012",
+    "gu": "Nowon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "170",
+    "name": "Nowon-gu admin-dong 013",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "171",
+    "name": "Nowon-gu admin-dong 014",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "172",
+    "name": "Nowon-gu admin-dong 015",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6074",
+    "name": "Nowon-gu admin-dong 016",
+    "gu": "Nowon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "178",
+    "name": "Nowon-gu admin-dong 017",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "180",
+    "name": "Nowon-gu admin-dong 018",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "179",
+    "name": "Nowon-gu admin-dong 019",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6075",
+    "name": "Nowon-gu admin-dong 020",
+    "gu": "Nowon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "177",
+    "name": "Nowon-gu admin-dong 021",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "175",
+    "name": "Nowon-gu admin-dong 022",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "176",
+    "name": "Nowon-gu admin-dong 023",
+    "gu": "Nowon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6076",
+    "name": "Nowon-gu admin-dong 024",
+    "gu": "Nowon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6077",
+    "name": "Dobong-gu admin-dong 001",
+    "gu": "Dobong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "160",
+    "name": "Dobong-gu admin-dong 002",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "161",
+    "name": "Dobong-gu admin-dong 003",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6078",
+    "name": "Dobong-gu admin-dong 004",
+    "gu": "Dobong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "166",
+    "name": "Dobong-gu admin-dong 005",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "167",
+    "name": "Dobong-gu admin-dong 006",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "168",
+    "name": "Dobong-gu admin-dong 007",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6079",
+    "name": "Dobong-gu admin-dong 008",
+    "gu": "Dobong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "162",
+    "name": "Dobong-gu admin-dong 009",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "163",
+    "name": "Dobong-gu admin-dong 010",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "164",
+    "name": "Dobong-gu admin-dong 011",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "165",
+    "name": "Dobong-gu admin-dong 012",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6080",
+    "name": "Dobong-gu admin-dong 013",
+    "gu": "Dobong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "155",
+    "name": "Dobong-gu admin-dong 014",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "156",
+    "name": "Dobong-gu admin-dong 015",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "157",
+    "name": "Dobong-gu admin-dong 016",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "158",
+    "name": "Dobong-gu admin-dong 017",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "159",
+    "name": "Dobong-gu admin-dong 018",
+    "gu": "Dobong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6081",
+    "name": "Dongdaemun-gu admin-dong 001",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "92",
+    "name": "Dongdaemun-gu admin-dong 002",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "93",
+    "name": "Dongdaemun-gu admin-dong 003",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6082",
+    "name": "Dongdaemun-gu admin-dong 004",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6083",
+    "name": "Dongdaemun-gu admin-dong 005",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "88",
+    "name": "Dongdaemun-gu admin-dong 006",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6084",
+    "name": "Dongdaemun-gu admin-dong 007",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "100",
+    "name": "Dongdaemun-gu admin-dong 008",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "101",
+    "name": "Dongdaemun-gu admin-dong 009",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6085",
+    "name": "Dongdaemun-gu admin-dong 010",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "94",
+    "name": "Dongdaemun-gu admin-dong 011",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "95",
+    "name": "Dongdaemun-gu admin-dong 012",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6086",
+    "name": "Dongdaemun-gu admin-dong 013",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "90",
+    "name": "Dongdaemun-gu admin-dong 014",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "91",
+    "name": "Dongdaemun-gu admin-dong 015",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "89",
+    "name": "Dongdaemun-gu admin-dong 016",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "96",
+    "name": "Dongdaemun-gu admin-dong 017",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "97",
+    "name": "Dongdaemun-gu admin-dong 018",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6087",
+    "name": "Dongdaemun-gu admin-dong 019",
+    "gu": "Dongdaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "98",
+    "name": "Dongdaemun-gu admin-dong 020",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "99",
+    "name": "Dongdaemun-gu admin-dong 021",
+    "gu": "Dongdaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6088",
+    "name": "Dongjak-gu admin-dong 001",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "325",
+    "name": "Dongjak-gu admin-dong 002",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "326",
+    "name": "Dongjak-gu admin-dong 003",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "337",
+    "name": "Dongjak-gu admin-dong 004",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6089",
+    "name": "Dongjak-gu admin-dong 005",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6090",
+    "name": "Dongjak-gu admin-dong 006",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6091",
+    "name": "Dongjak-gu admin-dong 007",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "332",
+    "name": "Dongjak-gu admin-dong 008",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "333",
+    "name": "Dongjak-gu admin-dong 009",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "334",
+    "name": "Dongjak-gu admin-dong 010",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "335",
+    "name": "Dongjak-gu admin-dong 011",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "336",
+    "name": "Dongjak-gu admin-dong 012",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6092",
+    "name": "Dongjak-gu admin-dong 013",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6093",
+    "name": "Dongjak-gu admin-dong 014",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "327",
+    "name": "Dongjak-gu admin-dong 015",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "328",
+    "name": "Dongjak-gu admin-dong 016",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "329",
+    "name": "Dongjak-gu admin-dong 017",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "330",
+    "name": "Dongjak-gu admin-dong 018",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6094",
+    "name": "Dongjak-gu admin-dong 019",
+    "gu": "Dongjak-gu",
+    "type": "legal"
+  },
+  {
+    "id": "338",
+    "name": "Dongjak-gu admin-dong 020",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "339",
+    "name": "Dongjak-gu admin-dong 021",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "331",
+    "name": "Dongjak-gu admin-dong 022",
+    "gu": "Dongjak-gu",
+    "type": "admin"
+  },
+  {
+    "id": "223",
+    "name": "Mapo-gu admin-dong 001",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6095",
+    "name": "Mapo-gu admin-dong 002",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6096",
+    "name": "Mapo-gu admin-dong 003",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6097",
+    "name": "Mapo-gu admin-dong 004",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "226",
+    "name": "Mapo-gu admin-dong 005",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "224",
+    "name": "Mapo-gu admin-dong 006",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6098",
+    "name": "Mapo-gu admin-dong 007",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6099",
+    "name": "Mapo-gu admin-dong 008",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6100",
+    "name": "Mapo-gu admin-dong 009",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "232",
+    "name": "Mapo-gu admin-dong 010",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "233",
+    "name": "Mapo-gu admin-dong 011",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6101",
+    "name": "Mapo-gu admin-dong 012",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "237",
+    "name": "Mapo-gu admin-dong 013",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "229",
+    "name": "Mapo-gu admin-dong 014",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "230",
+    "name": "Mapo-gu admin-dong 015",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6102",
+    "name": "Mapo-gu admin-dong 016",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "235",
+    "name": "Mapo-gu admin-dong 017",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "236",
+    "name": "Mapo-gu admin-dong 018",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6103",
+    "name": "Mapo-gu admin-dong 019",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "228",
+    "name": "Mapo-gu admin-dong 020",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6104",
+    "name": "Mapo-gu admin-dong 021",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "222",
+    "name": "Mapo-gu admin-dong 022",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "234",
+    "name": "Mapo-gu admin-dong 023",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "227",
+    "name": "Mapo-gu admin-dong 024",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "225",
+    "name": "Mapo-gu admin-dong 025",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6105",
+    "name": "Mapo-gu admin-dong 026",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6106",
+    "name": "Mapo-gu admin-dong 027",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6107",
+    "name": "Mapo-gu admin-dong 028",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6108",
+    "name": "Mapo-gu admin-dong 029",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "231",
+    "name": "Mapo-gu admin-dong 030",
+    "gu": "Mapo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6109",
+    "name": "Mapo-gu admin-dong 031",
+    "gu": "Mapo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6110",
+    "name": "Seodaemun-gu admin-dong 001",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "217",
+    "name": "Seodaemun-gu admin-dong 002",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "218",
+    "name": "Seodaemun-gu admin-dong 003",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6111",
+    "name": "Seodaemun-gu admin-dong 004",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6112",
+    "name": "Seodaemun-gu admin-dong 005",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6113",
+    "name": "Seodaemun-gu admin-dong 006",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6114",
+    "name": "Seodaemun-gu admin-dong 007",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6115",
+    "name": "Seodaemun-gu admin-dong 008",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6116",
+    "name": "Seodaemun-gu admin-dong 009",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "219",
+    "name": "Seodaemun-gu admin-dong 010",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "220",
+    "name": "Seodaemun-gu admin-dong 011",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "208",
+    "name": "Seodaemun-gu admin-dong 012",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "210",
+    "name": "Seodaemun-gu admin-dong 013",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "211",
+    "name": "Seodaemun-gu admin-dong 014",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6117",
+    "name": "Seodaemun-gu admin-dong 015",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6118",
+    "name": "Seodaemun-gu admin-dong 016",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6119",
+    "name": "Seodaemun-gu admin-dong 017",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "207",
+    "name": "Seodaemun-gu admin-dong 018",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6120",
+    "name": "Seodaemun-gu admin-dong 019",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6121",
+    "name": "Seodaemun-gu admin-dong 020",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "209",
+    "name": "Seodaemun-gu admin-dong 021",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6122",
+    "name": "Seodaemun-gu admin-dong 022",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6123",
+    "name": "Seodaemun-gu admin-dong 023",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6124",
+    "name": "Seodaemun-gu admin-dong 024",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "215",
+    "name": "Seodaemun-gu admin-dong 025",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "216",
+    "name": "Seodaemun-gu admin-dong 026",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6125",
+    "name": "Seodaemun-gu admin-dong 027",
+    "gu": "Seodaemun-gu",
+    "type": "legal"
+  },
+  {
+    "id": "212",
+    "name": "Seodaemun-gu admin-dong 028",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "214",
+    "name": "Seodaemun-gu admin-dong 029",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "213",
+    "name": "Seodaemun-gu admin-dong 030",
+    "gu": "Seodaemun-gu",
+    "type": "admin"
+  },
+  {
+    "id": "380",
+    "name": "Seocho-gu admin-dong 001",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "369",
+    "name": "Seocho-gu admin-dong 002",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "370",
+    "name": "Seocho-gu admin-dong 003",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "371",
+    "name": "Seocho-gu admin-dong 004",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "372",
+    "name": "Seocho-gu admin-dong 005",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6126",
+    "name": "Seocho-gu admin-dong 006",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "368",
+    "name": "Seocho-gu admin-dong 007",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "374",
+    "name": "Seocho-gu admin-dong 008",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "375",
+    "name": "Seocho-gu admin-dong 009",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "376",
+    "name": "Seocho-gu admin-dong 010",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "377",
+    "name": "Seocho-gu admin-dong 011",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6127",
+    "name": "Seocho-gu admin-dong 012",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "373",
+    "name": "Seocho-gu admin-dong 013",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "363",
+    "name": "Seocho-gu admin-dong 014",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "364",
+    "name": "Seocho-gu admin-dong 015",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "365",
+    "name": "Seocho-gu admin-dong 016",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "366",
+    "name": "Seocho-gu admin-dong 017",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6128",
+    "name": "Seocho-gu admin-dong 018",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6129",
+    "name": "Seocho-gu admin-dong 019",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "378",
+    "name": "Seocho-gu admin-dong 020",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "379",
+    "name": "Seocho-gu admin-dong 021",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6130",
+    "name": "Seocho-gu admin-dong 022",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6131",
+    "name": "Seocho-gu admin-dong 023",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6132",
+    "name": "Seocho-gu admin-dong 024",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6133",
+    "name": "Seocho-gu admin-dong 025",
+    "gu": "Seocho-gu",
+    "type": "legal"
+  },
+  {
+    "id": "367",
+    "name": "Seocho-gu admin-dong 026",
+    "gu": "Seocho-gu",
+    "type": "admin"
+  },
+  {
+    "id": "61",
+    "name": "Seongdong-gu admin-dong 001",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "62",
+    "name": "Seongdong-gu admin-dong 002",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "63",
+    "name": "Seongdong-gu admin-dong 003",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6134",
+    "name": "Seongdong-gu admin-dong 004",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6135",
+    "name": "Seongdong-gu admin-dong 005",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6136",
+    "name": "Seongdong-gu admin-dong 006",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6137",
+    "name": "Seongdong-gu admin-dong 007",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6138",
+    "name": "Seongdong-gu admin-dong 008",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "56",
+    "name": "Seongdong-gu admin-dong 009",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "57",
+    "name": "Seongdong-gu admin-dong 010",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6139",
+    "name": "Seongdong-gu admin-dong 011",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "65",
+    "name": "Seongdong-gu admin-dong 012",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "66",
+    "name": "Seongdong-gu admin-dong 013",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "67",
+    "name": "Seongdong-gu admin-dong 014",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "68",
+    "name": "Seongdong-gu admin-dong 015",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6140",
+    "name": "Seongdong-gu admin-dong 016",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6141",
+    "name": "Seongdong-gu admin-dong 017",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "69",
+    "name": "Seongdong-gu admin-dong 018",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "64",
+    "name": "Seongdong-gu admin-dong 019",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "55",
+    "name": "Seongdong-gu admin-dong 020",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "54",
+    "name": "Seongdong-gu admin-dong 021",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "70",
+    "name": "Seongdong-gu admin-dong 022",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "60",
+    "name": "Seongdong-gu admin-dong 023",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6142",
+    "name": "Seongdong-gu admin-dong 024",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6143",
+    "name": "Seongdong-gu admin-dong 025",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "58",
+    "name": "Seongdong-gu admin-dong 026",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "59",
+    "name": "Seongdong-gu admin-dong 027",
+    "gu": "Seongdong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6144",
+    "name": "Seongdong-gu admin-dong 028",
+    "gu": "Seongdong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6145",
+    "name": "Seongbuk-gu admin-dong 001",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "131",
+    "name": "Seongbuk-gu admin-dong 002",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "132",
+    "name": "Seongbuk-gu admin-dong 003",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6146",
+    "name": "Seongbuk-gu admin-dong 004",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "123",
+    "name": "Seongbuk-gu admin-dong 005",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "124",
+    "name": "Seongbuk-gu admin-dong 006",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "122",
+    "name": "Seongbuk-gu admin-dong 007",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6147",
+    "name": "Seongbuk-gu admin-dong 008",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6148",
+    "name": "Seongbuk-gu admin-dong 009",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6149",
+    "name": "Seongbuk-gu admin-dong 010",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6150",
+    "name": "Seongbuk-gu admin-dong 011",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6151",
+    "name": "Seongbuk-gu admin-dong 012",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6152",
+    "name": "Seongbuk-gu admin-dong 013",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6153",
+    "name": "Seongbuk-gu admin-dong 014",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6154",
+    "name": "Seongbuk-gu admin-dong 015",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6155",
+    "name": "Seongbuk-gu admin-dong 016",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6156",
+    "name": "Seongbuk-gu admin-dong 017",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6157",
+    "name": "Seongbuk-gu admin-dong 018",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6158",
+    "name": "Seongbuk-gu admin-dong 019",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "126",
+    "name": "Seongbuk-gu admin-dong 020",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6159",
+    "name": "Seongbuk-gu admin-dong 021",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6160",
+    "name": "Seongbuk-gu admin-dong 022",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6161",
+    "name": "Seongbuk-gu admin-dong 023",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6162",
+    "name": "Seongbuk-gu admin-dong 024",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6163",
+    "name": "Seongbuk-gu admin-dong 025",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6164",
+    "name": "Seongbuk-gu admin-dong 026",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6165",
+    "name": "Seongbuk-gu admin-dong 027",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "121",
+    "name": "Seongbuk-gu admin-dong 028",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6166",
+    "name": "Seongbuk-gu admin-dong 029",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6167",
+    "name": "Seongbuk-gu admin-dong 030",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6168",
+    "name": "Seongbuk-gu admin-dong 031",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6169",
+    "name": "Seongbuk-gu admin-dong 032",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6170",
+    "name": "Seongbuk-gu admin-dong 033",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6171",
+    "name": "Seongbuk-gu admin-dong 034",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "139",
+    "name": "Seongbuk-gu admin-dong 035",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "120",
+    "name": "Seongbuk-gu admin-dong 036",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6172",
+    "name": "Seongbuk-gu admin-dong 037",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "125",
+    "name": "Seongbuk-gu admin-dong 038",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6173",
+    "name": "Seongbuk-gu admin-dong 039",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6174",
+    "name": "Seongbuk-gu admin-dong 040",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6175",
+    "name": "Seongbuk-gu admin-dong 041",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6176",
+    "name": "Seongbuk-gu admin-dong 042",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6177",
+    "name": "Seongbuk-gu admin-dong 043",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "134",
+    "name": "Seongbuk-gu admin-dong 044",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "135",
+    "name": "Seongbuk-gu admin-dong 045",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6178",
+    "name": "Seongbuk-gu admin-dong 046",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "136",
+    "name": "Seongbuk-gu admin-dong 047",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "137",
+    "name": "Seongbuk-gu admin-dong 048",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "138",
+    "name": "Seongbuk-gu admin-dong 049",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6179",
+    "name": "Seongbuk-gu admin-dong 050",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "127",
+    "name": "Seongbuk-gu admin-dong 051",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "128",
+    "name": "Seongbuk-gu admin-dong 052",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "129",
+    "name": "Seongbuk-gu admin-dong 053",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "130",
+    "name": "Seongbuk-gu admin-dong 054",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "133",
+    "name": "Seongbuk-gu admin-dong 055",
+    "gu": "Seongbuk-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6180",
+    "name": "Seongbuk-gu admin-dong 056",
+    "gu": "Seongbuk-gu",
+    "type": "legal"
+  },
+  {
+    "id": "420",
+    "name": "Songpa-gu admin-dong 001",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "421",
+    "name": "Songpa-gu admin-dong 002",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6181",
+    "name": "Songpa-gu admin-dong 003",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "419",
+    "name": "Songpa-gu admin-dong 004",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "407",
+    "name": "Songpa-gu admin-dong 005",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "408",
+    "name": "Songpa-gu admin-dong 006",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6182",
+    "name": "Songpa-gu admin-dong 007",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "409",
+    "name": "Songpa-gu admin-dong 008",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "410",
+    "name": "Songpa-gu admin-dong 009",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6183",
+    "name": "Songpa-gu admin-dong 010",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "422",
+    "name": "Songpa-gu admin-dong 011",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "423",
+    "name": "Songpa-gu admin-dong 012",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6184",
+    "name": "Songpa-gu admin-dong 013",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "411",
+    "name": "Songpa-gu admin-dong 014",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "412",
+    "name": "Songpa-gu admin-dong 015",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6185",
+    "name": "Songpa-gu admin-dong 016",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "418",
+    "name": "Songpa-gu admin-dong 017",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "417",
+    "name": "Songpa-gu admin-dong 018",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "415",
+    "name": "Songpa-gu admin-dong 019",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "416",
+    "name": "Songpa-gu admin-dong 020",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6186",
+    "name": "Songpa-gu admin-dong 021",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6187",
+    "name": "Songpa-gu admin-dong 022",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "414",
+    "name": "Songpa-gu admin-dong 023",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "413",
+    "name": "Songpa-gu admin-dong 024",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "425",
+    "name": "Songpa-gu admin-dong 025",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "427",
+    "name": "Songpa-gu admin-dong 026",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "428",
+    "name": "Songpa-gu admin-dong 027",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "429",
+    "name": "Songpa-gu admin-dong 028",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "430",
+    "name": "Songpa-gu admin-dong 029",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "431",
+    "name": "Songpa-gu admin-dong 030",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6188",
+    "name": "Songpa-gu admin-dong 031",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "426",
+    "name": "Songpa-gu admin-dong 032",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "424",
+    "name": "Songpa-gu admin-dong 033",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "405",
+    "name": "Songpa-gu admin-dong 034",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "406",
+    "name": "Songpa-gu admin-dong 035",
+    "gu": "Songpa-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6189",
+    "name": "Songpa-gu admin-dong 036",
+    "gu": "Songpa-gu",
+    "type": "legal"
+  },
+  {
+    "id": "239",
+    "name": "Yangcheon-gu admin-dong 001",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "240",
+    "name": "Yangcheon-gu admin-dong 002",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "241",
+    "name": "Yangcheon-gu admin-dong 003",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "242",
+    "name": "Yangcheon-gu admin-dong 004",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "243",
+    "name": "Yangcheon-gu admin-dong 005",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6190",
+    "name": "Yangcheon-gu admin-dong 006",
+    "gu": "Yangcheon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "244",
+    "name": "Yangcheon-gu admin-dong 007",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "245",
+    "name": "Yangcheon-gu admin-dong 008",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "246",
+    "name": "Yangcheon-gu admin-dong 009",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "247",
+    "name": "Yangcheon-gu admin-dong 010",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "248",
+    "name": "Yangcheon-gu admin-dong 011",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "249",
+    "name": "Yangcheon-gu admin-dong 012",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "250",
+    "name": "Yangcheon-gu admin-dong 013",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6191",
+    "name": "Yangcheon-gu admin-dong 014",
+    "gu": "Yangcheon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "251",
+    "name": "Yangcheon-gu admin-dong 015",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "252",
+    "name": "Yangcheon-gu admin-dong 016",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "253",
+    "name": "Yangcheon-gu admin-dong 017",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "254",
+    "name": "Yangcheon-gu admin-dong 018",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "255",
+    "name": "Yangcheon-gu admin-dong 019",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "256",
+    "name": "Yangcheon-gu admin-dong 020",
+    "gu": "Yangcheon-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6192",
+    "name": "Yangcheon-gu admin-dong 021",
+    "gu": "Yangcheon-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6193",
+    "name": "Yeongdeungpo-gu admin-dong 001",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6194",
+    "name": "Yeongdeungpo-gu admin-dong 002",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6195",
+    "name": "Yeongdeungpo-gu admin-dong 003",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6196",
+    "name": "Yeongdeungpo-gu admin-dong 004",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6197",
+    "name": "Yeongdeungpo-gu admin-dong 005",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6198",
+    "name": "Yeongdeungpo-gu admin-dong 006",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6199",
+    "name": "Yeongdeungpo-gu admin-dong 007",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "309",
+    "name": "Yeongdeungpo-gu admin-dong 008",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "310",
+    "name": "Yeongdeungpo-gu admin-dong 009",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6200",
+    "name": "Yeongdeungpo-gu admin-dong 010",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "321",
+    "name": "Yeongdeungpo-gu admin-dong 011",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "322",
+    "name": "Yeongdeungpo-gu admin-dong 012",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "323",
+    "name": "Yeongdeungpo-gu admin-dong 013",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "311",
+    "name": "Yeongdeungpo-gu admin-dong 014",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "312",
+    "name": "Yeongdeungpo-gu admin-dong 015",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6201",
+    "name": "Yeongdeungpo-gu admin-dong 016",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6202",
+    "name": "Yeongdeungpo-gu admin-dong 017",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6203",
+    "name": "Yeongdeungpo-gu admin-dong 018",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6204",
+    "name": "Yeongdeungpo-gu admin-dong 019",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6205",
+    "name": "Yeongdeungpo-gu admin-dong 020",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6206",
+    "name": "Yeongdeungpo-gu admin-dong 021",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6207",
+    "name": "Yeongdeungpo-gu admin-dong 022",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "315",
+    "name": "Yeongdeungpo-gu admin-dong 023",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "316",
+    "name": "Yeongdeungpo-gu admin-dong 024",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "317",
+    "name": "Yeongdeungpo-gu admin-dong 025",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "318",
+    "name": "Yeongdeungpo-gu admin-dong 026",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "319",
+    "name": "Yeongdeungpo-gu admin-dong 027",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "320",
+    "name": "Yeongdeungpo-gu admin-dong 028",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6208",
+    "name": "Yeongdeungpo-gu admin-dong 029",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6209",
+    "name": "Yeongdeungpo-gu admin-dong 030",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6210",
+    "name": "Yeongdeungpo-gu admin-dong 031",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6211",
+    "name": "Yeongdeungpo-gu admin-dong 032",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6212",
+    "name": "Yeongdeungpo-gu admin-dong 033",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6213",
+    "name": "Yeongdeungpo-gu admin-dong 034",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6214",
+    "name": "Yeongdeungpo-gu admin-dong 035",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "313",
+    "name": "Yeongdeungpo-gu admin-dong 036",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "314",
+    "name": "Yeongdeungpo-gu admin-dong 037",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6215",
+    "name": "Yeongdeungpo-gu admin-dong 038",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6216",
+    "name": "Yeongdeungpo-gu admin-dong 039",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "308",
+    "name": "Yeongdeungpo-gu admin-dong 040",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "307",
+    "name": "Yeongdeungpo-gu admin-dong 041",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6217",
+    "name": "Yeongdeungpo-gu admin-dong 042",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6218",
+    "name": "Yeongdeungpo-gu admin-dong 043",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6219",
+    "name": "Yeongdeungpo-gu admin-dong 044",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6220",
+    "name": "Yeongdeungpo-gu admin-dong 045",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6221",
+    "name": "Yeongdeungpo-gu admin-dong 046",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6222",
+    "name": "Yeongdeungpo-gu admin-dong 047",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6223",
+    "name": "Yeongdeungpo-gu admin-dong 048",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6224",
+    "name": "Yeongdeungpo-gu admin-dong 049",
+    "gu": "Yeongdeungpo-gu",
+    "type": "legal"
+  },
+  {
+    "id": "306",
+    "name": "Yeongdeungpo-gu admin-dong 050",
+    "gu": "Yeongdeungpo-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6225",
+    "name": "Yongsan-gu admin-dong 001",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "39",
+    "name": "Yongsan-gu admin-dong 002",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6226",
+    "name": "Yongsan-gu admin-dong 003",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6227",
+    "name": "Yongsan-gu admin-dong 004",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6228",
+    "name": "Yongsan-gu admin-dong 005",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6229",
+    "name": "Yongsan-gu admin-dong 006",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "52",
+    "name": "Yongsan-gu admin-dong 007",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6230",
+    "name": "Yongsan-gu admin-dong 008",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6231",
+    "name": "Yongsan-gu admin-dong 009",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "51",
+    "name": "Yongsan-gu admin-dong 010",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6232",
+    "name": "Yongsan-gu admin-dong 011",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6233",
+    "name": "Yongsan-gu admin-dong 012",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "44",
+    "name": "Yongsan-gu admin-dong 013",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "38",
+    "name": "Yongsan-gu admin-dong 014",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6234",
+    "name": "Yongsan-gu admin-dong 015",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6235",
+    "name": "Yongsan-gu admin-dong 016",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6236",
+    "name": "Yongsan-gu admin-dong 017",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6237",
+    "name": "Yongsan-gu admin-dong 018",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6238",
+    "name": "Yongsan-gu admin-dong 019",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6239",
+    "name": "Yongsan-gu admin-dong 020",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6240",
+    "name": "Yongsan-gu admin-dong 021",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6241",
+    "name": "Yongsan-gu admin-dong 022",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6242",
+    "name": "Yongsan-gu admin-dong 023",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6243",
+    "name": "Yongsan-gu admin-dong 024",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "41",
+    "name": "Yongsan-gu admin-dong 025",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "42",
+    "name": "Yongsan-gu admin-dong 026",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6244",
+    "name": "Yongsan-gu admin-dong 027",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "46",
+    "name": "Yongsan-gu admin-dong 028",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "47",
+    "name": "Yongsan-gu admin-dong 029",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6245",
+    "name": "Yongsan-gu admin-dong 030",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "48",
+    "name": "Yongsan-gu admin-dong 031",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "49",
+    "name": "Yongsan-gu admin-dong 032",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6246",
+    "name": "Yongsan-gu admin-dong 033",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6247",
+    "name": "Yongsan-gu admin-dong 034",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "40",
+    "name": "Yongsan-gu admin-dong 035",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6248",
+    "name": "Yongsan-gu admin-dong 036",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6249",
+    "name": "Yongsan-gu admin-dong 037",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6250",
+    "name": "Yongsan-gu admin-dong 038",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6251",
+    "name": "Yongsan-gu admin-dong 039",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6252",
+    "name": "Yongsan-gu admin-dong 040",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6253",
+    "name": "Yongsan-gu admin-dong 041",
+    "gu": "Yongsan-gu",
+    "type": "legal"
+  },
+  {
+    "id": "45",
+    "name": "Yongsan-gu admin-dong 042",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "50",
+    "name": "Yongsan-gu admin-dong 043",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "43",
+    "name": "Yongsan-gu admin-dong 044",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "37",
+    "name": "Yongsan-gu admin-dong 045",
+    "gu": "Yongsan-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6254",
+    "name": "Eunpyeong-gu admin-dong 001",
+    "gu": "Eunpyeong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "193",
+    "name": "Eunpyeong-gu admin-dong 002",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "194",
+    "name": "Eunpyeong-gu admin-dong 003",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "195",
+    "name": "Eunpyeong-gu admin-dong 004",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "190",
+    "name": "Eunpyeong-gu admin-dong 005",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "196",
+    "name": "Eunpyeong-gu admin-dong 006",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6255",
+    "name": "Eunpyeong-gu admin-dong 007",
+    "gu": "Eunpyeong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "191",
+    "name": "Eunpyeong-gu admin-dong 008",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "192",
+    "name": "Eunpyeong-gu admin-dong 009",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "204",
+    "name": "Eunpyeong-gu admin-dong 010",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6256",
+    "name": "Eunpyeong-gu admin-dong 011",
+    "gu": "Eunpyeong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "201",
+    "name": "Eunpyeong-gu admin-dong 012",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "202",
+    "name": "Eunpyeong-gu admin-dong 013",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "200",
+    "name": "Eunpyeong-gu admin-dong 014",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6257",
+    "name": "Eunpyeong-gu admin-dong 015",
+    "gu": "Eunpyeong-gu",
+    "type": "legal"
+  },
+  {
+    "id": "197",
+    "name": "Eunpyeong-gu admin-dong 016",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "198",
+    "name": "Eunpyeong-gu admin-dong 017",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "199",
+    "name": "Eunpyeong-gu admin-dong 018",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "203",
+    "name": "Eunpyeong-gu admin-dong 019",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "205",
+    "name": "Eunpyeong-gu admin-dong 020",
+    "gu": "Eunpyeong-gu",
+    "type": "admin"
+  },
+  {
+    "id": "10",
+    "name": "Jongno-gu admin-dong 001",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6258",
+    "name": "Jongno-gu admin-dong 002",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6259",
+    "name": "Jongno-gu admin-dong 003",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6260",
+    "name": "Jongno-gu admin-dong 004",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6261",
+    "name": "Jongno-gu admin-dong 005",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6262",
+    "name": "Jongno-gu admin-dong 006",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6263",
+    "name": "Jongno-gu admin-dong 007",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6264",
+    "name": "Jongno-gu admin-dong 008",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "9",
+    "name": "Jongno-gu admin-dong 009",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6265",
+    "name": "Jongno-gu admin-dong 010",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6266",
+    "name": "Jongno-gu admin-dong 011",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6267",
+    "name": "Jongno-gu admin-dong 012",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6268",
+    "name": "Jongno-gu admin-dong 013",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6269",
+    "name": "Jongno-gu admin-dong 014",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6270",
+    "name": "Jongno-gu admin-dong 015",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6271",
+    "name": "Jongno-gu admin-dong 016",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6272",
+    "name": "Jongno-gu admin-dong 017",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6273",
+    "name": "Jongno-gu admin-dong 018",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6274",
+    "name": "Jongno-gu admin-dong 019",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6275",
+    "name": "Jongno-gu admin-dong 020",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6276",
+    "name": "Jongno-gu admin-dong 021",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6277",
+    "name": "Jongno-gu admin-dong 022",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6278",
+    "name": "Jongno-gu admin-dong 023",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6279",
+    "name": "Jongno-gu admin-dong 024",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6280",
+    "name": "Jongno-gu admin-dong 025",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6281",
+    "name": "Jongno-gu admin-dong 026",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6282",
+    "name": "Jongno-gu admin-dong 027",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "8",
+    "name": "Jongno-gu admin-dong 028",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6283",
+    "name": "Jongno-gu admin-dong 029",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6",
+    "name": "Jongno-gu admin-dong 030",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6284",
+    "name": "Jongno-gu admin-dong 031",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "4",
+    "name": "Jongno-gu admin-dong 032",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "5",
+    "name": "Jongno-gu admin-dong 033",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6285",
+    "name": "Jongno-gu admin-dong 034",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6286",
+    "name": "Jongno-gu admin-dong 035",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6287",
+    "name": "Jongno-gu admin-dong 036",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6288",
+    "name": "Jongno-gu admin-dong 037",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6289",
+    "name": "Jongno-gu admin-dong 038",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6290",
+    "name": "Jongno-gu admin-dong 039",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6291",
+    "name": "Jongno-gu admin-dong 040",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "18",
+    "name": "Jongno-gu admin-dong 041",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "19",
+    "name": "Jongno-gu admin-dong 042",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6292",
+    "name": "Jongno-gu admin-dong 043",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6293",
+    "name": "Jongno-gu admin-dong 044",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6294",
+    "name": "Jongno-gu admin-dong 045",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6295",
+    "name": "Jongno-gu admin-dong 046",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6296",
+    "name": "Jongno-gu admin-dong 047",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6297",
+    "name": "Jongno-gu admin-dong 048",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6298",
+    "name": "Jongno-gu admin-dong 049",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6299",
+    "name": "Jongno-gu admin-dong 050",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6300",
+    "name": "Jongno-gu admin-dong 051",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6301",
+    "name": "Jongno-gu admin-dong 052",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6302",
+    "name": "Jongno-gu admin-dong 053",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6303",
+    "name": "Jongno-gu admin-dong 054",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6304",
+    "name": "Jongno-gu admin-dong 055",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "13",
+    "name": "Jongno-gu admin-dong 056",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6305",
+    "name": "Jongno-gu admin-dong 057",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6306",
+    "name": "Jongno-gu admin-dong 058",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6307",
+    "name": "Jongno-gu admin-dong 059",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6308",
+    "name": "Jongno-gu admin-dong 060",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6309",
+    "name": "Jongno-gu admin-dong 061",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6310",
+    "name": "Jongno-gu admin-dong 062",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "11",
+    "name": "Jongno-gu admin-dong 063",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6311",
+    "name": "Jongno-gu admin-dong 064",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6312",
+    "name": "Jongno-gu admin-dong 065",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6313",
+    "name": "Jongno-gu admin-dong 066",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6314",
+    "name": "Jongno-gu admin-dong 067",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "12",
+    "name": "Jongno-gu admin-dong 068",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6315",
+    "name": "Jongno-gu admin-dong 069",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6316",
+    "name": "Jongno-gu admin-dong 070",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6317",
+    "name": "Jongno-gu admin-dong 071",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6318",
+    "name": "Jongno-gu admin-dong 072",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6319",
+    "name": "Jongno-gu admin-dong 073",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "15",
+    "name": "Jongno-gu admin-dong 074",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "16",
+    "name": "Jongno-gu admin-dong 075",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "17",
+    "name": "Jongno-gu admin-dong 076",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6320",
+    "name": "Jongno-gu admin-dong 077",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "3",
+    "name": "Jongno-gu admin-dong 078",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6321",
+    "name": "Jongno-gu admin-dong 079",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6322",
+    "name": "Jongno-gu admin-dong 080",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6323",
+    "name": "Jongno-gu admin-dong 081",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6324",
+    "name": "Jongno-gu admin-dong 082",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6325",
+    "name": "Jongno-gu admin-dong 083",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6326",
+    "name": "Jongno-gu admin-dong 084",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6327",
+    "name": "Jongno-gu admin-dong 085",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "7",
+    "name": "Jongno-gu admin-dong 086",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6328",
+    "name": "Jongno-gu admin-dong 087",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6329",
+    "name": "Jongno-gu admin-dong 088",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "14",
+    "name": "Jongno-gu admin-dong 089",
+    "gu": "Jongno-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6330",
+    "name": "Jongno-gu admin-dong 090",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6331",
+    "name": "Jongno-gu admin-dong 091",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6332",
+    "name": "Jongno-gu admin-dong 092",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6333",
+    "name": "Jongno-gu admin-dong 093",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6334",
+    "name": "Jongno-gu admin-dong 094",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6335",
+    "name": "Jongno-gu admin-dong 095",
+    "gu": "Jongno-gu",
+    "type": "legal"
+  },
+  {
+    "id": "26",
+    "name": "Jung-gu admin-dong 001",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6336",
+    "name": "Jung-gu admin-dong 002",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6337",
+    "name": "Jung-gu admin-dong 003",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6338",
+    "name": "Jung-gu admin-dong 004",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6339",
+    "name": "Jung-gu admin-dong 005",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6340",
+    "name": "Jung-gu admin-dong 006",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6341",
+    "name": "Jung-gu admin-dong 007",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6342",
+    "name": "Jung-gu admin-dong 008",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6343",
+    "name": "Jung-gu admin-dong 009",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6344",
+    "name": "Jung-gu admin-dong 010",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6345",
+    "name": "Jung-gu admin-dong 011",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6346",
+    "name": "Jung-gu admin-dong 012",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6347",
+    "name": "Jung-gu admin-dong 013",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6348",
+    "name": "Jung-gu admin-dong 014",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "29",
+    "name": "Jung-gu admin-dong 015",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "33",
+    "name": "Jung-gu admin-dong 016",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6349",
+    "name": "Jung-gu admin-dong 017",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6350",
+    "name": "Jung-gu admin-dong 018",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "23",
+    "name": "Jung-gu admin-dong 019",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6351",
+    "name": "Jung-gu admin-dong 020",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6352",
+    "name": "Jung-gu admin-dong 021",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6353",
+    "name": "Jung-gu admin-dong 022",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6354",
+    "name": "Jung-gu admin-dong 023",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6355",
+    "name": "Jung-gu admin-dong 024",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6356",
+    "name": "Jung-gu admin-dong 025",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6357",
+    "name": "Jung-gu admin-dong 026",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6358",
+    "name": "Jung-gu admin-dong 027",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6359",
+    "name": "Jung-gu admin-dong 028",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6360",
+    "name": "Jung-gu admin-dong 029",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6361",
+    "name": "Jung-gu admin-dong 030",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6362",
+    "name": "Jung-gu admin-dong 031",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "21",
+    "name": "Jung-gu admin-dong 032",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6363",
+    "name": "Jung-gu admin-dong 033",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6364",
+    "name": "Jung-gu admin-dong 034",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6365",
+    "name": "Jung-gu admin-dong 035",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "28",
+    "name": "Jung-gu admin-dong 036",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "32",
+    "name": "Jung-gu admin-dong 037",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6366",
+    "name": "Jung-gu admin-dong 038",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "30",
+    "name": "Jung-gu admin-dong 039",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6367",
+    "name": "Jung-gu admin-dong 040",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6368",
+    "name": "Jung-gu admin-dong 041",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6369",
+    "name": "Jung-gu admin-dong 042",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6370",
+    "name": "Jung-gu admin-dong 043",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6371",
+    "name": "Jung-gu admin-dong 044",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6372",
+    "name": "Jung-gu admin-dong 045",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6373",
+    "name": "Jung-gu admin-dong 046",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6374",
+    "name": "Jung-gu admin-dong 047",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6375",
+    "name": "Jung-gu admin-dong 048",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6376",
+    "name": "Jung-gu admin-dong 049",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "27",
+    "name": "Jung-gu admin-dong 050",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6377",
+    "name": "Jung-gu admin-dong 051",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6378",
+    "name": "Jung-gu admin-dong 052",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6379",
+    "name": "Jung-gu admin-dong 053",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6380",
+    "name": "Jung-gu admin-dong 054",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6381",
+    "name": "Jung-gu admin-dong 055",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6382",
+    "name": "Jung-gu admin-dong 056",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "25",
+    "name": "Jung-gu admin-dong 057",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6383",
+    "name": "Jung-gu admin-dong 058",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6384",
+    "name": "Jung-gu admin-dong 059",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6385",
+    "name": "Jung-gu admin-dong 060",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6386",
+    "name": "Jung-gu admin-dong 061",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6387",
+    "name": "Jung-gu admin-dong 062",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6388",
+    "name": "Jung-gu admin-dong 063",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6389",
+    "name": "Jung-gu admin-dong 064",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "35",
+    "name": "Jung-gu admin-dong 065",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "31",
+    "name": "Jung-gu admin-dong 066",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6390",
+    "name": "Jung-gu admin-dong 067",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6391",
+    "name": "Jung-gu admin-dong 068",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6392",
+    "name": "Jung-gu admin-dong 069",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6393",
+    "name": "Jung-gu admin-dong 070",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6394",
+    "name": "Jung-gu admin-dong 071",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6395",
+    "name": "Jung-gu admin-dong 072",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6396",
+    "name": "Jung-gu admin-dong 073",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6397",
+    "name": "Jung-gu admin-dong 074",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6398",
+    "name": "Jung-gu admin-dong 075",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "24",
+    "name": "Jung-gu admin-dong 076",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6399",
+    "name": "Jung-gu admin-dong 077",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6400",
+    "name": "Jung-gu admin-dong 078",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6401",
+    "name": "Jung-gu admin-dong 079",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "34",
+    "name": "Jung-gu admin-dong 080",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "22",
+    "name": "Jung-gu admin-dong 081",
+    "gu": "Jung-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6402",
+    "name": "Jung-gu admin-dong 082",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6403",
+    "name": "Jung-gu admin-dong 083",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6404",
+    "name": "Jung-gu admin-dong 084",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6405",
+    "name": "Jung-gu admin-dong 085",
+    "gu": "Jung-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6406",
+    "name": "Jungnang-gu admin-dong 001",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "115",
+    "name": "Jungnang-gu admin-dong 002",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "116",
+    "name": "Jungnang-gu admin-dong 003",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6407",
+    "name": "Jungnang-gu admin-dong 004",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "106",
+    "name": "Jungnang-gu admin-dong 005",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "103",
+    "name": "Jungnang-gu admin-dong 006",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "108",
+    "name": "Jungnang-gu admin-dong 007",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "104",
+    "name": "Jungnang-gu admin-dong 008",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "105",
+    "name": "Jungnang-gu admin-dong 009",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "107",
+    "name": "Jungnang-gu admin-dong 010",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6408",
+    "name": "Jungnang-gu admin-dong 011",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "113",
+    "name": "Jungnang-gu admin-dong 012",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "114",
+    "name": "Jungnang-gu admin-dong 013",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6409",
+    "name": "Jungnang-gu admin-dong 014",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "109",
+    "name": "Jungnang-gu admin-dong 015",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "110",
+    "name": "Jungnang-gu admin-dong 016",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "117",
+    "name": "Jungnang-gu admin-dong 017",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "118",
+    "name": "Jungnang-gu admin-dong 018",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "6410",
+    "name": "Jungnang-gu admin-dong 019",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "6411",
+    "name": "Jungnang-gu admin-dong 020",
+    "gu": "Jungnang-gu",
+    "type": "legal"
+  },
+  {
+    "id": "111",
+    "name": "Jungnang-gu admin-dong 021",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  },
+  {
+    "id": "112",
+    "name": "Jungnang-gu admin-dong 022",
+    "gu": "Jungnang-gu",
+    "type": "admin"
+  }
+]
